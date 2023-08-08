@@ -1,0 +1,766 @@
+[
+  {
+    "path": "/",
+    "score": 0.91
+  },
+  {
+    "path": "/about",
+    "score": 0.93
+  },
+  {
+    "path": "/about-gaoa",
+    "score": 0.93
+  },
+  {
+    "path": "/accommodations",
+    "score": 0.94
+  },
+  {
+    "path": "/asia/broadband/2022-agenda",
+    "score": 0.93
+  },
+  {
+    "path": "/asia/broadband/clone-national-tribal-broadband-summit-2019",
+    "score": 0.93
+  },
+  {
+    "path": "/asia/broadband/national-tribal-broadband-summit-2019-agenda",
+    "score": 0.93
+  },
+  {
+    "path": "/asia/broadband/national-tribal-broadband-summit-2021",
+    "score": 0.93
+  },
+  {
+    "path": "/asia/broadband/ntbs-2019",
+    "score": 0.93
+  },
+  {
+    "path": "/asiia",
+    "score": 0.91
+  },
+  {
+    "path": "/aviation",
+    "score": 0.93
+  },
+  {
+    "path": "/aviation/new-updated",
+    "score": 0.91
+  },
+  {
+    "path": "/aviation/uas/doi-uas-news",
+    "score": 0.91
+  },
+  {
+    "path": "/aviation/uas/doi-uas-news-0",
+    "score": 0.91
+  },
+  {
+    "path": "/aviation/uas/ext-news",
+    "score": 0.91
+  },
+  {
+    "path": "/aviation/uas/uas-video",
+    "score": 0.91
+  },
+  {
+    "path": "/blog/all",
+    "score": 0.91
+  },
+  {
+    "path": "/bpp",
+    "score": 0.92
+  },
+  {
+    "path": "/budget",
+    "score": 0.93
+  },
+  {
+    "path": "/bureaus",
+    "score": 0.93
+  },
+  {
+    "path": "/businesses",
+    "score": 0.93
+  },
+  {
+    "path": "/buybackprogram",
+    "score": 0.93
+  },
+  {
+    "path": "/buybackprogram/about/news",
+    "score": 0.91
+  },
+  {
+    "path": "/buybackprogram/buyback-pages",
+    "score": 0.89
+  },
+  {
+    "path": "/cloud",
+    "score": 0.91
+  },
+  {
+    "path": "/cobell",
+    "score": 0.92
+  },
+  {
+    "path": "/coronavirus",
+    "score": 0.93
+  },
+  {
+    "path": "/cupcao",
+    "score": 0.93
+  },
+  {
+    "path": "/cupcao/news",
+    "score": 0.91
+  },
+  {
+    "path": "/cupcao/photos",
+    "score": 0.91
+  },
+  {
+    "path": "/data",
+    "score": 0.94
+  },
+  {
+    "path": "/deepwaterhorizon",
+    "score": 0.93
+  },
+  {
+    "path": "/deepwaterhorizon/news",
+    "score": 0.89
+  },
+  {
+    "path": "/deepwaterhorizon/our-photo-galleries",
+    "score": 0.91
+  },
+  {
+    "path": "/deepwaterhorizon/programmatic-damage-assessment-and-restoration-planprogrammatic-environmental",
+    "score": 0.93
+  },
+  {
+    "path": "/deferred-maintenance-and-repair",
+    "score": 0.89
+  },
+  {
+    "path": "/digitalstrategy",
+    "score": 0.93
+  },
+  {
+    "path": "/doipublishing",
+    "score": 0.93
+  },
+  {
+    "path": "/doitalent",
+    "score": 0.93
+  },
+  {
+    "path": "/doitalent/about/training",
+    "score": 0.93
+  },
+  {
+    "path": "/eforms",
+    "score": 0.92
+  },
+  {
+    "path": "/emergency",
+    "score": 0.93
+  },
+  {
+    "path": "/emergency/bureau-and-office-emergency-management-information-1",
+    "score": 0.92
+  },
+  {
+    "path": "/emergency/department-interior-employees-surge-support",
+    "score": 0.93
+  },
+  {
+    "path": "/emergency/hurricane-florence-news",
+    "score": 0.89
+  },
+  {
+    "path": "/emergency/hurricane-information",
+    "score": 0.93
+  },
+  {
+    "path": "/emergency/hurricane-michael-news",
+    "score": 0.91
+  },
+  {
+    "path": "/employees/anti-harassment",
+    "score": 0.93
+  },
+  {
+    "path": "/employees/dmguide",
+    "score": 0.84
+  },
+  {
+    "path": "/employees/employmentlaw",
+    "score": 0.91
+  },
+  {
+    "path": "/employees/employmentlaw/eeo-harassment",
+    "score": 0.91
+  },
+  {
+    "path": "/ethics",
+    "score": 0.93
+  },
+  {
+    "path": "/ethics/forms",
+    "score": 0.91
+  },
+  {
+    "path": "/ethics/news",
+    "score": 0.89
+  },
+  {
+    "path": "/ethics/special-government-employees",
+    "score": 0.91
+  },
+  {
+    "path": "/ethics/training",
+    "score": 0.93
+  },
+  {
+    "path": "/ethics/training-library",
+    "score": 0.93
+  },
+  {
+    "path": "/execsec",
+    "score": 0.93
+  },
+  {
+    "path": "/execsec/correspondence",
+    "score": 0.93
+  },
+  {
+    "path": "/execsec/director",
+    "score": 0.93
+  },
+  {
+    "path": "/execsec/faca",
+    "score": 0.93
+  },
+  {
+    "path": "/execsec/regaffairs",
+    "score": 0.93
+  },
+  {
+    "path": "/execsec/whoweare",
+    "score": 0.93
+  },
+  {
+    "path": "/fcg",
+    "score": 0.93
+  },
+  {
+    "path": "/flert",
+    "score": 0.93
+  },
+  {
+    "path": "/foia",
+    "score": 0.93
+  },
+  {
+    "path": "/gaoa",
+    "score": 0.93
+  },
+  {
+    "path": "/gaoa-faqs",
+    "score": 0.93
+  },
+  {
+    "path": "/gaoa-impact",
+    "score": 0.93
+  },
+  {
+    "path": "/gaoa-lrf-projects-action",
+    "score": 0.93
+  },
+  {
+    "path": "/gaoa-maintenance-action-teams",
+    "score": 0.94
+  },
+  {
+    "path": "/gaoa-numbers",
+    "score": 0.91
+  },
+  {
+    "path": "/gaoa-project-data",
+    "score": 0.87
+  },
+  {
+    "path": "/gaoa-projects",
+    "score": 0.93
+  },
+  {
+    "path": "/gaoa-resources",
+    "score": 0.94
+  },
+  {
+    "path": "/gaoa/newsroom",
+    "score": 0.91
+  },
+  {
+    "path": "/grants",
+    "score": 0.93
+  },
+  {
+    "path": "/hawaiian",
+    "score": 0.93
+  },
+  {
+    "path": "/hawaiian/notifications",
+    "score": 0.89
+  },
+  {
+    "path": "/hr/videos",
+    "score": 0.91
+  },
+  {
+    "path": "/hurricanesandy",
+    "score": 0.91
+  },
+  {
+    "path": "/hurricanesandy/boem",
+    "score": 0.88
+  },
+  {
+    "path": "/hurricanesandy/news",
+    "score": 0.88
+  },
+  {
+    "path": "/hurricanesandy/nps",
+    "score": 0.88
+  },
+  {
+    "path": "/hurricanesandy/usfws",
+    "score": 0.88
+  },
+  {
+    "path": "/hurricanesandy/usgs",
+    "score": 0.88
+  },
+  {
+    "path": "/iacb",
+    "score": 0.89
+  },
+  {
+    "path": "/iacb/ArtNews",
+    "score": 0.91
+  },
+  {
+    "path": "/iacb/news",
+    "score": 0.89
+  },
+  {
+    "path": "/ibc",
+    "score": 0.93
+  },
+  {
+    "path": "/ibc/about-us/news",
+    "score": 0.91
+  },
+  {
+    "path": "/interiormuseum",
+    "score": 0.93
+  },
+  {
+    "path": "/interiormuseum/blog",
+    "score": 0.91
+  },
+  {
+    "path": "/interiormuseum/exhibitions",
+    "score": 0.93
+  },
+  {
+    "path": "/interiormuseum/multimedia",
+    "score": 0.93
+  },
+  {
+    "path": "/international",
+    "score": 0.93
+  },
+  {
+    "path": "/international/what-we-do",
+    "score": 0.93
+  },
+  {
+    "path": "/international/where-we-work",
+    "score": 0.93
+  },
+  {
+    "path": "/international/who-we-are",
+    "score": 0.92
+  },
+  {
+    "path": "/intl",
+    "score": 0.93
+  },
+  {
+    "path": "/invasivespecies",
+    "score": 0.93
+  },
+  {
+    "path": "/invasivespecies/latest-news",
+    "score": 0.89
+  },
+  {
+    "path": "/invasivespecies/what-matters",
+    "score": 0.89
+  },
+  {
+    "path": "/investing-americas-infrastructure",
+    "score": 0.93
+  },
+  {
+    "path": "/itap",
+    "score": 0.93
+  },
+  {
+    "path": "/itap/opportunities-news",
+    "score": 0.91
+  },
+  {
+    "path": "/itap/our-staff",
+    "score": 0.93
+  },
+  {
+    "path": "/itap/our-work",
+    "score": 0.93
+  },
+  {
+    "path": "/itap/photo-gallery",
+    "score": 0.91
+  },
+  {
+    "path": "/itap/regions",
+    "score": 0.93
+  },
+  {
+    "path": "/joinus",
+    "score": 0.93
+  },
+  {
+    "path": "/library",
+    "score": 0.93
+  },
+  {
+    "path": "/lwcf",
+    "score": 0.93
+  },
+  {
+    "path": "/lwcf/news",
+    "score": 0.89
+  },
+  {
+    "path": "/museum",
+    "score": 0.93
+  },
+  {
+    "path": "/museum/about-interior-museum-program",
+    "score": 0.93
+  },
+  {
+    "path": "/museum/discover",
+    "score": 0.93
+  },
+  {
+    "path": "/museum/museum-policy",
+    "score": 0.93
+  },
+  {
+    "path": "/museum/professional-development",
+    "score": 0.93
+  },
+  {
+    "path": "/nepa",
+    "score": 0.93
+  },
+  {
+    "path": "/news",
+    "score": 0.91
+  },
+  {
+    "path": "/news/archive",
+    "score": 0.91
+  },
+  {
+    "path": "/news/multimedia",
+    "score": 0.91
+  },
+  {
+    "path": "/news/newsroom",
+    "score": 0.93
+  },
+  {
+    "path": "/news/press-releases",
+    "score": 0.91
+  },
+  {
+    "path": "/node/10200",
+    "score": 0.93
+  },
+  {
+    "path": "/notices",
+    "score": 0.93
+  },
+  {
+    "path": "/ocean",
+    "score": 0.93
+  },
+  {
+    "path": "/ocean/highlights",
+    "score": 0.91
+  },
+  {
+    "path": "/ocean/newswave",
+    "score": 0.93
+  },
+  {
+    "path": "/ocio",
+    "score": 0.93
+  },
+  {
+    "path": "/ocl",
+    "score": 0.93
+  },
+  {
+    "path": "/oepc",
+    "score": 0.93
+  },
+  {
+    "path": "/oepc/disaster-response-and-recovery",
+    "score": 0.93
+  },
+  {
+    "path": "/oepc/emergency-response-oil-spills-and-hazardous-substances-releases",
+    "score": 0.93
+  },
+  {
+    "path": "/oepc/environmental-compliance-and-cleanup-division-eccd",
+    "score": 0.93
+  },
+  {
+    "path": "/oepc/ERR",
+    "score": 0.93
+  },
+  {
+    "path": "/oepc/nepa-and-environmental-coordination-division-nepaecd",
+    "score": 0.92
+  },
+  {
+    "path": "/oepc/resources/environmental-justice",
+    "score": 0.93
+  },
+  {
+    "path": "/ofas",
+    "score": 0.93
+  },
+  {
+    "path": "/ofas/ofas-programs-and-services",
+    "score": 0.91
+  },
+  {
+    "path": "/office-of-the-secretary",
+    "score": 0.93
+  },
+  {
+    "path": "/oha",
+    "score": 0.93
+  },
+  {
+    "path": "/oia",
+    "score": 0.93
+  },
+  {
+    "path": "/oia/oia-conversations-about-coral-reefs",
+    "score": 0.91
+  },
+  {
+    "path": "/oia/oia-conversations-about-invasive-species",
+    "score": 0.91
+  },
+  {
+    "path": "/oia/photo-galleries",
+    "score": 0.89
+  },
+  {
+    "path": "/oia/usvi-recovery",
+    "score": 0.93
+  },
+  {
+    "path": "/oia/whatwedoIslands",
+    "score": 0.91
+  },
+  {
+    "path": "/oles",
+    "score": 0.93
+  },
+  {
+    "path": "/oles/doi-law-enforcement-task-force",
+    "score": 0.93
+  },
+  {
+    "path": "/oles/national-human-trafficking-prevention-month",
+    "score": 0.93
+  },
+  {
+    "path": "/orphanedwells",
+    "score": 0.93
+  },
+  {
+    "path": "/ost",
+    "score": 0.93
+  },
+  {
+    "path": "/ost/tribal-trust-news",
+    "score": 0.91
+  },
+  {
+    "path": "/ourpriorities",
+    "score": 0.93
+  },
+  {
+    "path": "/pam",
+    "score": 0.93
+  },
+  {
+    "path": "/pam/acquisition",
+    "score": 0.93
+  },
+  {
+    "path": "/pam/acquisition-sustainability",
+    "score": 0.93
+  },
+  {
+    "path": "/pam/asset-management",
+    "score": 0.93
+  },
+  {
+    "path": "/pam/asset-management/museum-cultural-resources",
+    "score": 0.93
+  },
+  {
+    "path": "/performance/office-of-planning-and-performance-management",
+    "score": 0.93
+  },
+  {
+    "path": "/pfm",
+    "score": 0.91
+  },
+  {
+    "path": "/pfm/about",
+    "score": 0.93
+  },
+  {
+    "path": "/photos",
+    "score": 0.91
+  },
+  {
+    "path": "/pilt",
+    "score": 0.93
+  },
+  {
+    "path": "/plainlanguage",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/cadr/test",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/eeo",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/eeo/affirmative-employment-program-division",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/eeo/eeo-statements",
+    "score": 0.91
+  },
+  {
+    "path": "/pmb/eeo/events-news",
+    "score": 0.91
+  },
+  {
+    "path": "/pmb/eeo/public-civil-rights-division",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/fbms/business-integration-office-bio",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/hcd",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/hr/hr/memos",
+    "score": 0.91
+  },
+  {
+    "path": "/pmb/hr/kids-to-work-day",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/hr/office-human-capital",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/hr/pathways",
+    "score": 0.92
+  },
+  {
+    "path": "/pmb/hr/workerscompensation",
+    "score": 0.92
+  },
+  {
+    "path": "/pmb/osdbu/",
+    "score": 0.92
+  },
+  {
+    "path": "/pmb/osh",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/seod",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/seod/dcc",
+    "score": 0.91
+  },
+  {
+    "path": "/pmb/seod/dcc/tools",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb/seod/meet-dcc-ambassadors",
+    "score": 0.93
+  },
+  {
+    "path": "/pmb1",
+    "score": 0.93
+  },
+  {
+    "path": "/ppa",
+    "score": 0.87
+  },
+  {
+    "path": "/ppa/program-areas",
+    "score": 0.91
+  },
+  {
+    "path": "/ppa/seminar_series/video",
+    "score": 0.89
+  }
+]
