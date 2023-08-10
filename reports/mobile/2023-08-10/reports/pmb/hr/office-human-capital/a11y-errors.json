@@ -1,56 +1,5 @@
 [
   {
-    "id": "heading-order",
-    "title": "Heading elements are not in a sequentially-descending order",
-    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
-    "score": 0,
-    "scoreDisplayMode": "binary",
-    "details": {
-      "type": "table",
-      "headings": [
-        {
-          "key": "node",
-          "itemType": "node",
-          "subItemsHeading": {
-            "key": "relatedNode",
-            "itemType": "node"
-          },
-          "text": "Failing Elements"
-        }
-      ],
-      "items": [
-        {
-          "node": {
-            "type": "node",
-            "lhId": "9-188-H4",
-            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,H4",
-            "selector": "div.field > div.field__items > div.field__item > h4",
-            "boundingRect": {
-              "top": 945,
-              "bottom": 972,
-              "left": 25,
-              "right": 387,
-              "width": 362,
-              "height": 27
-            },
-            "snippet": "<h4>",
-            "nodeLabel": "What's New:",
-            "explanation": "Fix any of the following:\n  Heading order invalid"
-          }
-        }
-      ],
-      "debugData": {
-        "type": "debugdata",
-        "impact": "moderate",
-        "tags": [
-          "cat.semantics",
-          "best-practice"
-        ]
-      }
-    },
-    "errorCount": 1
-  },
-  {
     "id": "link-name",
     "title": "Links do not have a discernible name",
     "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
