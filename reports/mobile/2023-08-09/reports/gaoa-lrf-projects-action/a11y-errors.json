@@ -1,0 +1,180 @@
+[
+  {
+    "id": "definition-list",
+    "title": "`<dl>`'s do not contain only properly-ordered `<dt>` and `<dd>` groups, `<script>`, `<template>` or `<div>` elements.",
+    "description": "When definition lists are not properly marked up, screen readers may produce confusing or inaccurate output. [Learn more](https://web.dev/definition-list/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-137-DL",
+            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,22,DIV,0,TABLE,0,TBODY,0,TR,0,TD,4,DL",
+            "selector": "tbody > tr > td > dl",
+            "boundingRect": {
+              "top": 3551,
+              "bottom": 4189,
+              "left": 31,
+              "right": 184,
+              "width": 153,
+              "height": 638
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "GAOA LRF is funding a new Administrative and Visitor Center facility in the Tul…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        },
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-138-DL",
+            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,22,DIV,0,TABLE,0,TBODY,0,TR,1,TD,4,DL",
+            "selector": "tbody > tr > td > dl",
+            "boundingRect": {
+              "top": 3537,
+              "bottom": 4146,
+              "left": 196,
+              "right": 349,
+              "width": 153,
+              "height": 609
+            },
+            "snippet": "<dl>",
+            "nodeLabel": "Long overdue construction is underway on the Blue Ridge Parkway in North Caroli…",
+            "explanation": "Fix all of the following:\n  When not empty, element does not have at least one <dt> element followed by at least one <dd> element"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.structure",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 2
+  },
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-139-H5",
+            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,22,DIV,0,TABLE,0,TBODY,0,TR,0,TD,0,H5",
+            "selector": "tbody > tr > td > h5",
+            "boundingRect": {
+              "top": 3214,
+              "bottom": 3326,
+              "left": 31,
+              "right": 184,
+              "width": 153,
+              "height": 112
+            },
+            "snippet": "<h5>",
+            "nodeLabel": "Tule Lake National Wildlife Refuge",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-11-A",
+            "path": "7,HTML,2,BODY,1,DIV,0,HEADER,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,A",
+            "selector": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "boundingRect": {
+              "top": 10,
+              "bottom": 50,
+              "left": 307,
+              "right": 347,
+              "width": 40,
+              "height": 40
+            },
+            "snippet": "<a class=\"button pane-accessibility--toggle\" href=\"#\">",
+            "nodeLabel": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
