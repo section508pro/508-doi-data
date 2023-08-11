@@ -1,0 +1,113 @@
+[
+  {
+    "id": "frame-title",
+    "title": "`<frame>` or `<iframe>` elements do not have a title",
+    "description": "Screen reader users rely on frame titles to describe the contents of frames. [Learn more](https://web.dev/frame-title/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-182-IFRAME",
+            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,1,P,0,IFRAME",
+            "selector": "div.field__items > div.field__item > p > iframe",
+            "boundingRect": {
+              "top": 794,
+              "bottom": 1100,
+              "left": 128,
+              "right": 608,
+              "width": 480,
+              "height": 306
+            },
+            "snippet": "<iframe allowfullscreen=\"\" frameborder=\"0\" height=\"306\" scrolling=\"auto\" src=\"/sites/doi.gov/files/video/files/open-caption-20210505-sec-haaland-support…\" width=\"480\">",
+            "nodeLabel": "div.field__items > div.field__item > p > iframe",
+            "explanation": "Fix any of the following:\n  Element has no title attribute\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element's default semantics were not overridden with role=\"none\" or role=\"presentation\""
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.text-alternatives",
+          "wcag2a",
+          "wcag241",
+          "wcag412",
+          "section508",
+          "section508.22.i"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "11-11-A",
+            "path": "7,HTML,2,BODY,1,DIV,0,HEADER,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,A",
+            "selector": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "boundingRect": {
+              "top": 20,
+              "bottom": 60,
+              "left": 1182,
+              "right": 1222,
+              "width": 40,
+              "height": 40
+            },
+            "snippet": "<a class=\"button pane-accessibility--toggle\" href=\"#\">",
+            "nodeLabel": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
