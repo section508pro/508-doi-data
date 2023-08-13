@@ -1,0 +1,109 @@
+[
+  {
+    "id": "heading-order",
+    "title": "Heading elements are not in a sequentially-descending order",
+    "description": "Properly ordered headings that do not skip levels convey the semantic structure of the page, making it easier to navigate and understand when using assistive technologies. [Learn more](https://web.dev/heading-order/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-136-H3",
+            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,H3",
+            "selector": "div.field > div.field__items > div.field__item > h3",
+            "boundingRect": {
+              "top": 366,
+              "bottom": 393,
+              "left": 128,
+              "right": 1222,
+              "width": 1094,
+              "height": 27
+            },
+            "snippet": "<h3>",
+            "nodeLabel": "Information Quality",
+            "explanation": "Fix any of the following:\n  Heading order invalid"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "moderate",
+        "tags": [
+          "cat.semantics",
+          "best-practice"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-11-A",
+            "path": "7,HTML,2,BODY,1,DIV,0,HEADER,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,A",
+            "selector": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "boundingRect": {
+              "top": 20,
+              "bottom": 60,
+              "left": 1182,
+              "right": 1222,
+              "width": 40,
+              "height": 40
+            },
+            "snippet": "<a class=\"button pane-accessibility--toggle\" href=\"#\">",
+            "nodeLabel": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
