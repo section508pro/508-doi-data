@@ -1,0 +1,110 @@
+[
+  {
+    "id": "aria-required-parent",
+    "title": "`[role]`s are not contained by their required parent element",
+    "description": "Some ARIA child roles must be contained by specific parent roles to properly perform their intended accessibility functions. [Learn more](https://web.dev/aria-required-parent/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-161-SPAN",
+            "path": "7,HTML,2,BODY,1,DIV,1,DIV,1,DIV,2,DIV,0,DIV,0,DIV,1,DIV,0,DIV,0,DIV,0,DIV,3,P,1,SPAN",
+            "selector": "div.field__items > div.field__item > p > span.qu",
+            "boundingRect": {
+              "top": 805,
+              "bottom": 878,
+              "left": 25,
+              "right": 379,
+              "width": 354,
+              "height": 73
+            },
+            "snippet": "<span class=\"qu\" role=\"gridcell\" style=\"outline: none;\" tabindex=\"-1\">",
+            "nodeLabel": "doi-itap_news@ios.doi.gov to be added to DOI-ITAP Distribution List. ",
+            "explanation": "Fix any of the following:\n  Required ARIA parent role not present: row"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "critical",
+        "tags": [
+          "cat.aria",
+          "wcag2a",
+          "wcag131"
+        ]
+      }
+    },
+    "errorCount": 1
+  },
+  {
+    "id": "link-name",
+    "title": "Links do not have a discernible name",
+    "description": "Link text (and alternate text for images, when used as links) that is discernible, unique, and focusable improves the navigation experience for screen reader users. [Learn more](https://web.dev/link-name/).",
+    "score": 0,
+    "scoreDisplayMode": "binary",
+    "details": {
+      "type": "table",
+      "headings": [
+        {
+          "key": "node",
+          "itemType": "node",
+          "subItemsHeading": {
+            "key": "relatedNode",
+            "itemType": "node"
+          },
+          "text": "Failing Elements"
+        }
+      ],
+      "items": [
+        {
+          "node": {
+            "type": "node",
+            "lhId": "9-11-A",
+            "path": "7,HTML,2,BODY,1,DIV,0,HEADER,0,DIV,0,DIV,0,DIV,0,DIV,0,DIV,4,DIV,0,A",
+            "selector": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "boundingRect": {
+              "top": 10,
+              "bottom": 50,
+              "left": 307,
+              "right": 347,
+              "width": 40,
+              "height": 40
+            },
+            "snippet": "<a class=\"button pane-accessibility--toggle\" href=\"#\">",
+            "nodeLabel": "div#mini-panel-doi_header > div.main > div.panel-pane > a.button",
+            "explanation": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute"
+          }
+        }
+      ],
+      "debugData": {
+        "type": "debugdata",
+        "impact": "serious",
+        "tags": [
+          "cat.name-role-value",
+          "wcag2a",
+          "wcag412",
+          "wcag244",
+          "section508",
+          "section508.22.a",
+          "ACT"
+        ]
+      }
+    },
+    "errorCount": 1
+  }
+]
